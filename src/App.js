@@ -25,7 +25,7 @@ const projects = [
     title: "Restaurant Website",
     description: "A beautiful weather dashboard with location-based forecasts",
     image: "https://via.placeholder.com/300x200/DC2626/FFFFFF?text=Weather",
-    url: "https://halal-restaurant-code-email.vercel.app/",
+    url: url(.logo.png),
     technologies: ["React", "API", "Chart.js"]
   },
   
