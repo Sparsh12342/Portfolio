@@ -9,26 +9,26 @@ const projects = [
   {
     id: 1,
     title: "Expense Tracker App",
-    description: "A full-stack e-commerce application built with React and Node.js",
+    description: "A full-stack expense tracking app built with React and Node.js",
     image: logo2,
     url: "https://aws-expense-tracker-wpuq.vercel.app/",
-    technologies: ["React", "Node.js", "MongoDB"]
+    technologies: ["React", "BERT", "NodeJs"]
   },
   {
     id: 2,
     title: "Lyra AI",
-    description: "A collaborative task management tool with real-time updates",
+    description: "An aritificial intelligence music translator app",
     image: logo3,
     url: "https://lyra-ai-capstone-project.vercel.app/",
-    technologies: ["React", "Firebase", "Material-UI"]
+    technologies: ["React", "Tensorflow", "Pytorch"]
   },
   {
     id: 3,
     title: "Restaurant Website",
-    description: "A beautiful weather dashboard with location-based forecasts",
+    description: "A simple and easy website takes orders and sends them to local restaurant",
     image: logo,   // use the imported variable
     url: "https://halal-restaurant-code-email.vercel.app/",
-    technologies: ["React", "API", "Chart.js"]
+    technologies: ["CSS", "HTML", "Java"]
   },
 ];
 
@@ -53,4 +53,5 @@ function App() {
 }
 
 export default App;
+
 
