@@ -3,6 +3,7 @@ import ProjectCard from './components/ProjectCard';
 import './App.css';
 import logo2 from './img/logo2.png';
 import logo from './img/logo.png';
+import logo3 from './img/logo3.png';
 // Sample project data - replace with your actual projects
 const projects = [
   {
@@ -17,8 +18,8 @@ const projects = [
     id: 2,
     title: "Lyra AI",
     description: "A collaborative task management tool with real-time updates",
-    image: "https://via.placeholder.com/300x200/059669/FFFFFF?text=Task+App",
-    url: "https://your-task-app.vercel.app",
+    image: logo3,
+    url: "https://lyra-ai-capstone-project.vercel.app/",
     technologies: ["React", "Firebase", "Material-UI"]
   },
   {
@@ -52,3 +53,4 @@ function App() {
 }
 
 export default App;
+
